@@ -1,0 +1,5 @@
+﻿  CarMain.cpp
+c:\users\student.mp1-14\desktop\naqib biti g2\project1\project1\carmain.cpp(6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Car.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\student.MP1-14\Desktop\Naqib BITI G2\Project1\Debug\Project1.exe
